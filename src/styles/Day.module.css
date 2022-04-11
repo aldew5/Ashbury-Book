@@ -1,0 +1,27 @@
+.close { 
+    position: absolute; 
+    top: 10px; 
+    right: 10px; 
+} 
+
+.empty {
+  margin-left: 40%;
+}
+
+.date {
+  margin-left: 2%;
+}
+
+.title {
+  margin-left: 2%;
+}
+
+.button {
+  margin-left: 260%;
+  display: inline-block;
+}
+
+.loading {
+  margin: auto;
+  margin-top: 10%;
+}

@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    padding-top: 50px;
+}
+
+.leader {
+    padding-top: 50px;
+    float: left;
+    width: 200px;
+    height: 500px;
+    border-style: solid;
+}
+
+.sched {
+    float: left;
+    width: 500px;
+    padding-left: 50px;
+}
+
+.day {
+    position: absolute;
+    z-index: 10;
+    left: 20vw;
+    top: 25vh;
+    width: 50vw;
+    height: 50vh;
+}

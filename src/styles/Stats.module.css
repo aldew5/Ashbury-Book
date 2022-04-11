@@ -1,0 +1,16 @@
+.main {
+    text-align: left;
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+
+.loading {
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.stats {
+    background-color: rgb(250, 246, 246);
+}

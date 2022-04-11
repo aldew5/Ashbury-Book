@@ -1,0 +1,12 @@
+.debts {
+    display: inline-block;
+    margin-right: 10%;
+}
+
+.stats {
+    display: inline-block;
+}
+
+.container {
+    margin: auto;
+}
