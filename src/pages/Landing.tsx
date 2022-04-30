@@ -27,7 +27,7 @@ const Landing = ({ username, setUsername, password, setPassword }: LandingProps)
                 Ashbury Book is the official app of the Matthews House Poker Association.
             </div>
             <div className={styles.explanation}>
-                Made by Alec (with emotional support from Maggie).
+                Made by Alec
             </div>
         </div>
     );
